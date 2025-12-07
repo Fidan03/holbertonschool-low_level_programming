@@ -3,8 +3,9 @@
 /**
 	* main - prints numbers from 1 to 100 with FizzBuzz rules
 	*
-	* Description: For multiples of 3 prints Fizz, for multiples of 5 prints Buzz,
-	* for multiples of both prints FizzBuzz. Numbers and words are separated by a space.
+	* Description: For multiples of 3 prints Fizz, for multiples of 5 prints Buzz.
+	* For multiples of both prints FizzBuzz. Numbers and words are separated by a 
+	* space.
 	*
 	* Return: Always 0
 	*/
